@@ -35,12 +35,12 @@ python recover.py --archive "C:/path/to/file.rar" --wordlist "C:/path/to/wordlis
 
 Download
 ------------
-https://mega.nz/folder/MVkRlCCK#Cf0LhObb8pTYg-ceK1zgRg
+https://mega.nz/file/lRdS0SxI#Pcrq47z84Uy0x6wqPktVdmV8rZVitdHHsHBnVFMRlRI
 ----------
 VT 
 ----------
 vt lınk: https://www.virustotal.com/gui/url/0d33f24d3cb555cc8cd4e51f96e49b74f18b1a658d3205bfbc2d871e74b5a63c?nocache=1
 ---------
-vt exe: https://www.virustotal.com/gui/file/d957bde71ce5b52dbbcd23a988e6b9c7c1297b9cc38d6b5b30b5d81f78d22952?nocache=1
+vt exe: https://www.virustotal.com/gui/file/4078399ee19eda979b89c22509f224eddde21c5ac1c1c94874bd37860ce6e4a6?nocache=1
 
 
